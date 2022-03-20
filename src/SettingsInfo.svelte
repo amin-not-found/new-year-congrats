@@ -43,7 +43,7 @@
     width: 70%;
     padding: 20px;
     overflow: hidden;
-    font-size: 1.3em;
+    font-size: 1.2em;
 
     border-radius: 50px;
   }
